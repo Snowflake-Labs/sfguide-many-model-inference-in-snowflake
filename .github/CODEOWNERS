@@ -2,6 +2,7 @@
 # See https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
 #
 # Snowflake-Labs requires at least two Snowflake employees listed as owners.
+# Use sfc-gh accounts on this public repo (not *_snow EMU accounts).
 
 # Default owner for everything in the repo.
-*    @sfc-gh-hayu @sfc-gh-chammond
+*    @sfc-gh-jiehuang @sfc-gh-sdas @sfc-gh-thoyt @sfc-gh-hayu @sfc-gh-pramachandran @sfc-gh-chammond
